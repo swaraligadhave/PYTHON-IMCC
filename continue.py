@@ -1,5 +1,5 @@
 
-for i in range(5)
+for i in range(5):
     pass  # pass is a placeholder 
 
 for i in range(5):
